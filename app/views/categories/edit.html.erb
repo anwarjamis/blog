@@ -1,0 +1,8 @@
+<h1>Edit this category</h1>
+<%= simple_form_for @category do |f| %>
+  <%= f.input :name %>
+  <%= f.button :submit %>
+<% end %>
+<%= link_to 'Borrar', category_path(@category),
+                      method: :delete,
+                      data: { confirm: "Estás seguro que quieres eliminar esta categoría?" }%>
