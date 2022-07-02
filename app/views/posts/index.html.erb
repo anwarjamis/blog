@@ -2,9 +2,9 @@
 <ul>
 <% @posts.each do |post| %>
   <li>
-    <h1><%= post.title %></h1>
+    <h1><%= link_to post.title, post_path(post) %></h1>
     <h5><%= post.subtitle %></h5>
-    <p><%= post.date %> | <%= post.read_time %></p>
+    <p><%= post.date %> | <%= post.read_time %> minutos</p>
   </li>
 <% end %>
 </ul>
