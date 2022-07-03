@@ -1,4 +1,5 @@
 class BookmarksController < ApplicationController
+  before_action :set_bookmark, only: %i[edit update destroy]
 
   def new
     @bookmark = Bookmark.new
@@ -13,13 +14,9 @@ class BookmarksController < ApplicationController
     end
   end
 
-  def edit
-  end
-
-  def update
-  end
-
   def destroy
+    @bookmark.destroy
+    redirect_to posts_path
   end
 
   private
@@ -29,5 +26,6 @@ class BookmarksController < ApplicationController
   end
 
   def set_bookmark
+    @bookmark = Bookmark.find(params[:id])
   end
 end

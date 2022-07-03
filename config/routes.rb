@@ -3,5 +3,5 @@ Rails.application.routes.draw do
   root to: 'pages#home'
   resources :posts
   resources :categories
-  resources :bookmarks, only: %i[new create]
+  resources :bookmarks, only: %i[new create destroy]
 end

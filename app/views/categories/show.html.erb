@@ -5,3 +5,6 @@
   <li><%= link_to post.title, post_path(post) %></li>
   <% end %>
 </ul>
+<%= link_to 'Borrar categoría', category_path(@category),
+                                method: :delete,
+                                data: { confirm: "Estás seguro que quieres eliminar esta categoría?" } %>
