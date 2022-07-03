@@ -6,8 +6,15 @@
     <h5><%= post.subtitle %></h5>
     <p><%= post.date %> | <%= post.read_time %> minutos</p>
   </li>
+  <h5>Categorías</h5>
+  <ul>
+    <% post.bookmarks.each do |bookmark| %>
+      <li><%= bookmark.category.name %></li>
+    <% end %>
+  </ul>
 <% end %>
 </ul>
 <% if user_signed_in? %>
-  <%= link_to "Crear", new_post_path %>
+  <%= link_to "Crear", new_post_path %><br>
+  <%= link_to 'Categorizar posts', new_bookmark_path %>
 <% end %>
