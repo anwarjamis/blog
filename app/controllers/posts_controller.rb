@@ -6,9 +6,6 @@ class PostsController < ApplicationController
     @posts = Post.all
   end
 
-  def show
-  end
-
   def new
     @post = Post.new
   end
@@ -18,7 +15,7 @@ class PostsController < ApplicationController
     @post.date = Time.now
     @post.user_id = current_user.id
     if @post.save
-      redirect_to post_path(@post)
+      redirect_to posts_path
     else
       render 'new'
     end
@@ -29,7 +26,7 @@ class PostsController < ApplicationController
 
   def update
     if @post.update(post_params)
-      redirect_to post_path(@post)
+      redirect_to posts_path
     else
       render 'edit'
     end
@@ -43,7 +40,7 @@ class PostsController < ApplicationController
   private
 
   def post_params
-    params.require(:post).permit(:title, :subtitle, :content, :read_time, :date)
+    params.require(:post).permit(:title, :subtitle, :medium_url, :read_time, :date)
   end
 
   def set_post
