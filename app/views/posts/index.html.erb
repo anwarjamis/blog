@@ -2,9 +2,9 @@
 <ul>
 <% @posts.each do |post| %>
   <li>
-    <h1><%= link_to post.title, post_path(post) %></h1>
+    <h1><%= link_to post.title, "#{post.medium_url}", target: "_blank" %></h1>
     <h5><%= post.subtitle %></h5>
-    <p><%= post.date %> | <%= post.read_time %> minutos</p>
+    <p><%= post.date.strftime("%d %b, %Y") %> | <%= post.read_time %> minutos</p>
   </li>
   <h5>Categorías</h5>
   <ul>
@@ -12,9 +12,15 @@
       <li><%= bookmark.category.name %></li>
     <% end %>
   </ul>
+  <% if user_signed_in? %>
+    <%= link_to "Editar", edit_post_path(post) %>
+    <%= link_to "Categorizar", new_bookmark_path %>
+    <%= link_to "Eliminar", post_path(post),
+                            method: :delete,
+                            data: { confirm: "Estás seguro que quieres eliminar este post?" } %>
+  <% end %>
 <% end %>
 </ul>
 <% if user_signed_in? %>
   <%= link_to "Crear", new_post_path %><br>
-  <%= link_to 'Categorizar posts', new_bookmark_path %>
 <% end %>
