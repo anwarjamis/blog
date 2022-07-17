@@ -1,26 +1,38 @@
 <h1>All posts</h1>
-<ul>
-<% @posts.each do |post| %>
-  <li>
-    <h1><%= link_to post.title, "#{post.medium_url}", target: "_blank" %></h1>
-    <h5><%= post.subtitle %></h5>
-    <p><%= post.date.strftime("%d %b, %Y") %> | <%= post.read_time %> minutos</p>
-  </li>
-  <h5>Categorías</h5>
-  <ul>
-    <% post.bookmarks.each do |bookmark| %>
-      <li><%= bookmark.category.name %></li>
-    <% end %>
-  </ul>
-  <% if user_signed_in? %>
-    <%= link_to "Editar", edit_post_path(post) %>
-    <%= link_to "Categorizar", new_bookmark_path %>
-    <%= link_to "Eliminar", post_path(post),
-                            method: :delete,
-                            data: { confirm: "Estás seguro que quieres eliminar este post?" } %>
-  <% end %>
-<% end %>
-</ul>
 <% if user_signed_in? %>
-  <%= link_to "Crear", new_post_path %><br>
+  <%= link_to "Nuevo", new_post_path, class: "btn btn-primary" %><br>
 <% end %>
+<div class="album py-5">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+    <% @posts.each do |post| %>
+    <div class="col">
+      <div class="card shadow-sm h-100">
+        <%= image_tag "profile.png", height: "200"%>
+        <div class="card-body">
+          <h5 class="card-text"><%= post.title %></h5>
+          <small class="card-text"><%= post.subtitle %></small>
+          <div class="d-flex align-items-center mt-3">
+          <% post.bookmarks.each do |bookmark| %>
+            <p class="badge bg-light text-black border me-2"><%= bookmark.category.name %></p>
+          <% end %>
+          </div>
+          <div class="d-flex justify-content-between align-items-center">
+            <small class="text-muted"><%= post.date.strftime("%d %b, %Y") %></small>
+            <small class="text-muted"><%= post.read_time %> mins</small>
+          </div>
+          <% if user_signed_in? %>
+          <div class="btn-group mt-2">
+            <%= link_to "Editar", edit_post_path(post), class: "btn btn-sm btn-outline-secondary" %>
+            <%= link_to "Categorizar", new_bookmark_path, class: "btn btn-sm btn-outline-secondary" %>
+            <%= link_to "Eliminar", post_path(post),
+                                    method: :delete,
+                                    class: "btn btn-sm btn-outline-danger",
+                                    data: { confirm: "Estás seguro que quieres eliminar este post?" } %>
+          </div>
+          <% end %>
+        </div>
+      </div>
+    </div>
+    <% end %>
+  </div>
+</div>
