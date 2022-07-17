@@ -9,7 +9,7 @@
       <div class="card shadow-sm h-100">
         <%= image_tag "profile.png", height: "200"%>
         <div class="card-body">
-          <h5 class="card-text"><%= post.title %></h5>
+          <h5 class="card-text"><%= link_to post.title, "#{post.medium_url}" %></h5>
           <small class="card-text"><%= post.subtitle %></small>
           <div class="d-flex align-items-center mt-3">
           <% post.bookmarks.each do |bookmark| %>
