@@ -3,14 +3,14 @@
   <%= link_to "Nuevo", new_post_path, class: "btn btn-primary" %><br>
 <% end %>
 <div class="album py-5">
-  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
     <% @posts.each do |post| %>
     <div class="col">
       <div class="card shadow-sm h-100">
         <%= image_tag "profile.png", height: "200"%>
         <div class="card-body">
           <h5 class="card-text"><%= post.title %></h5>
-          <p class="card-text"><%= post.subtitle %></p>
+          <small class="card-text"><%= post.subtitle %></small>
           <div class="d-flex align-items-center mt-3">
           <% post.bookmarks.each do |bookmark| %>
             <p class="badge bg-light text-black border me-2"><%= bookmark.category.name %></p>

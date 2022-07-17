@@ -4,14 +4,8 @@
       <h1 class="fw-light">Anwar's blog</h1>
       <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Blog</a>
-        <a href="#" class="btn btn-secondary my-2">About me</a>
+        <%= link_to "Entradas del blog", posts_path, class: "btn btn-primary my-2" %>
       </p>
     </div>
   </div>
 </section>
-<h3><%= link_to "Entradas del blog", posts_path, class: "mt-4" %></h3>
-<%= link_to "Login", new_user_session_path, class: "nav-link" %>
-<% if user_signed_in? %>
-    <%= link_to "Categorías" ,categories_path %>
-<% end %>
