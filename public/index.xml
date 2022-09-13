@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anwar Jamis</title>
+    <link>https://anwarjamis.com/</link>
+    <description>Recent content on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2022 00:54:03 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🍎 Gracias Apple (AAPL)</title>
+      <link>https://anwarjamis.com/posts/dividends/</link>
+      <pubDate>Tue, 13 Sep 2022 00:54:03 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/dividends/</guid>
+      <description>Hace un mes recibí los primeros dividendos de mis acciones en Racional. En este post te cuento qué son los dividendos y cuánta plata me dieron por tener acciones de la empresa de Steve Jobs.</description>
+    </item>
+    
+    <item>
+      <title>🛍 Llegaron mis compras de Ikea</title>
+      <link>https://anwarjamis.com/posts/ikea/</link>
+      <pubDate>Fri, 02 Sep 2022 17:15:56 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/ikea/</guid>
+      <description>Esta fue mi primera experiencia comprando online en el día de la inauguración de Ikea, el retailer super esperado que se estrenó en Chile y Sudamérica</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/about/</guid>
+      <description>Sobre mí ¡Hola!✌🏼 Soy Anwar Jamis.
+Tengo 25 años y soy de Chile 🇨🇱. La mayoría de gente no puede pronunciar bien mi nombre a la primera porque es muy poco común en Chile (es un nombre árabe 👳🏾‍♂️ y se escribe distinto a como se pronuncia —Anuar—). Estudié Ingeniería Civil Mecánica en la UAI, pero después de un año trabajando como Ingeniero de Procesos en una constructora, decidí aprender a programar en el bootcamp de desarrollo web de Le Wagon.</description>
+    </item>
+    
+  </channel>
+</rss>

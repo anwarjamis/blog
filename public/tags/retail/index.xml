@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>retail on Anwar Jamis</title>
+    <link>https://anwarjamis.com/tags/retail/</link>
+    <description>Recent content in retail on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 17:15:56 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/tags/retail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛍 Llegaron mis compras de Ikea</title>
+      <link>https://anwarjamis.com/posts/ikea/</link>
+      <pubDate>Fri, 02 Sep 2022 17:15:56 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/ikea/</guid>
+      <description>Esta fue mi primera experiencia comprando online en el día de la inauguración de Ikea, el retailer super esperado que se estrenó en Chile y Sudamérica</description>
+    </item>
+    
+  </channel>
+</rss>

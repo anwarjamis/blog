@@ -1,0 +1,32 @@
+baseURL: https://anwarjamis.com/
+languageCode: en-us
+title: Anwar Jamis
+theme: PaperMod
+
+params:
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    defaultTheme: dark
+    homeInfoParams:
+        Title: Hola! 👋🏼
+        Content: Soy **Anwar Jamis** —se pronuncia *Anuar*— y creé este blog donde voy a compartir cosas que he ido aprendiendo, reflexiones random que tengo a veces y resumenes de libros entretenidos que leo. Probablemente los temas de los que más hablé serán **finanzas, tecnología y fútbol.**
+
+menu:
+  main:
+    - identifier: categories
+      name: categorías
+      url: /categorías/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: sobre mí
+      url: /about/
+      weight: 30
+
+taxonomies:
+    tag: "tags"
+    category: "categorías"
