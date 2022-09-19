@@ -26,6 +26,10 @@ menu:
       name: sobre mí
       url: /about/
       weight: 30
+    - identifier: contact
+      name: contacto
+      url: /contact/
+      weight: 50
 
 taxonomies:
     tag: "tags"
