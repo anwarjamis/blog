@@ -10,7 +10,7 @@ params:
     defaultTheme: dark
     homeInfoParams:
         Title: Hola! 👋🏼
-        Content: Soy **Anwar Jamis** —se pronuncia *Anuar*— y creé este blog donde voy a compartir cosas que he ido aprendiendo, reflexiones random que tengo a veces y resumenes de libros entretenidos que leo. Probablemente los temas de los que más hablé serán **finanzas, tecnología y fútbol.**
+        Content: Soy **Anwar Jamis** —se pronuncia *Anuar*— y creé este blog donde voy a compartir cosas que he ido aprendiendo, reflexiones random que tengo a veces y resúmenes de libros entretenidos que leo. Probablemente los temas de los que más hablé serán **finanzas, tecnología y fútbol.**
 
 menu:
   main:
