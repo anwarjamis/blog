@@ -4,6 +4,7 @@ date: 2022-09-02T17:15:56-04:00
 summary: "Esta fue mi primera experiencia comprando online en el día de la inauguración de Ikea, el retailer super esperado que se estrenó en Chile y Sudamérica"
 categorías: "thoughts"
 tags: ["ikea", "retail"]
+author: ["Anwar Jamis"]
 ---
 Ya todos saben que el 10 de Agosto se inauguró en Chile, el primer Ikea de Sudamérica. Con la Fran (mi polola) estuvimos harto tiempo esperando esta llegada (vitrineabamos en la página española para saber que comprar cuando llegara a Chile 😢) porque a pesar de que CasaIdeas nos gusta mucho, Ikea tiene otras cosas choras que no encontrabamos en el retailer chileno.
 
