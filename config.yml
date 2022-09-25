@@ -12,16 +12,21 @@ params:
         Title: Hola! 👋🏼
         Content: Soy **Anwar Jamis** —se pronuncia *Anuar*— y creé este blog donde voy a compartir cosas que he ido aprendiendo, reflexiones random que tengo a veces y resúmenes de libros entretenidos que leo. Probablemente los temas de los que más hablé serán **finanzas, tecnología y fútbol.**
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
     - identifier: categories
       name: categorías
       url: /categorías/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
     - identifier: about
       name: sobre mí
       url: /about/
