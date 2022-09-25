@@ -23,10 +23,10 @@ menu:
       name: categorías
       url: /categorías/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
     - identifier: about
       name: sobre mí
       url: /about/
