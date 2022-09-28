@@ -4,7 +4,7 @@ date: 2022-09-19T17:15:56-04:00
 summary: "Qué es Tiki y una breve historia de cómo me gané 100.000 pesos en una canasta diversificada de criptomonedas como BTC, ETH, BNB, ADA y otras"
 categorías: "random"
 tags: ["tiki", "cripto"]
-author: ["Anwar Jamis"]
+author: "Anwar Jamis"
 ---
 Habitualmente en Chile, el 18 de Septiembre es una fecha de muchísimas cosas buenas. Mis favoritas son que uno se junta con amigos/familia, el clima ya está harto mejor y básicamente todo se descontrola un poco, todos tienen asados en la pega, muchos días feriados y hay ofertas en todos lados porque la gente se vuelva loca comprando copete y comida. Viva Chile! 🇨🇱
 
