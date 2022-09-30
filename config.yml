@@ -1,11 +1,13 @@
 baseURL: https://anwarjamis.com/
 languageCode: en-us
 title: Anwar Jamis
+paginate: 3
 theme: PaperMod
 
 params:
     ShowReadingTime: true
     ShowPostNavLinks: true
+    disableThemeToggle: true
     ShowCodeCopyButtons: true
     defaultTheme: dark
     homeInfoParams:
