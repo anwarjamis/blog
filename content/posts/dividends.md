@@ -2,7 +2,7 @@
 title: "🍎 Gracias Apple (AAPL)"
 date: 2022-09-13T00:54:03-04:00
 summary: "Hace un mes recibí los primeros dividendos de mis acciones en Racional. En este post te cuento qué son los dividendos y cuánta plata me dieron por tener acciones de la empresa de Steve Jobs."
-categorías: "finances"
+categorías: "Finanzas"
 tags: ["stocks", "dividends"]
 author: "Anwar Jamis"
 ---

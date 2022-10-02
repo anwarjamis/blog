@@ -2,7 +2,7 @@
 title: "🛍 Llegaron mis compras de Ikea"
 date: 2022-09-02T17:15:56-04:00
 summary: "Esta fue mi primera experiencia comprando online en el día de la inauguración de Ikea, el retailer super esperado que se estrenó en Chile y Sudamérica"
-categorías: "thoughts"
+categorías: "Opinión"
 tags: ["ikea", "retail"]
 author: "Anwar Jamis"
 ---
