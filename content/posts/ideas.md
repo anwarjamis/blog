@@ -2,7 +2,7 @@
 title: "💭 El valor de las ideas"
 date: 2022-09-27T20:44:28-03:00
 summary: "Muchas veces he escuchado que no hay que contar las ideas para que no te las copien, pero... ¿Qué tan real es que te roben las ideas?"
-categorías: "thoughts"
+categorías: "Opinión"
 tags: ["startups", "ideas"]
 author: "Anwar Jamis"
 ---

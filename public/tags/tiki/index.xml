@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tiki on Anwar Jamis</title>
+    <link>https://anwarjamis.com/tags/tiki/</link>
+    <description>Recent content in tiki on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2022 17:15:56 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/tags/tiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎁 Aguinaldo auspiciado por Tiki</title>
+      <link>https://anwarjamis.com/posts/tiki/</link>
+      <pubDate>Mon, 19 Sep 2022 17:15:56 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/tiki/</guid>
+      <description>Qué es Tiki y una breve historia de cómo me gané 100.000 pesos en una canasta diversificada de criptomonedas como BTC, ETH, BNB, ADA y otras</description>
+    </item>
+    
+  </channel>
+</rss>

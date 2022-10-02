@@ -2,7 +2,7 @@
 title: "🎁 Aguinaldo auspiciado por Tiki"
 date: 2022-09-19T17:15:56-04:00
 summary: "Qué es Tiki y una breve historia de cómo me gané 100.000 pesos en una canasta diversificada de criptomonedas como BTC, ETH, BNB, ADA y otras"
-categorías: "random"
+categorías: "Random"
 tags: ["tiki", "cripto"]
 author: "Anwar Jamis"
 ---
