@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opinión on Anwar Jamis</title>
+    <link>https://anwarjamis.com/categor%C3%ADas/opini%C3%B3n/</link>
+    <description>Recent content in Opinión on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2022 20:44:28 -0300</lastBuildDate><atom:link href="https://anwarjamis.com/categor%C3%ADas/opini%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💭 El valor de las ideas</title>
+      <link>https://anwarjamis.com/posts/ideas/</link>
+      <pubDate>Tue, 27 Sep 2022 20:44:28 -0300</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/ideas/</guid>
+      <description>Muchas veces he escuchado que no hay que contar las ideas para que no te las copien, pero&amp;hellip; ¿Qué tan real es que te roben las ideas?</description>
+    </item>
+    
+    <item>
+      <title>🛍 Llegaron mis compras de Ikea</title>
+      <link>https://anwarjamis.com/posts/ikea/</link>
+      <pubDate>Fri, 02 Sep 2022 17:15:56 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/ikea/</guid>
+      <description>Esta fue mi primera experiencia comprando online en el día de la inauguración de Ikea, el retailer super esperado que se estrenó en Chile y Sudamérica</description>
+    </item>
+    
+  </channel>
+</rss>

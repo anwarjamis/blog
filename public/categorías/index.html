@@ -39,54 +39,28 @@
 </head>
 
 <body class="list dark" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    }
-
-</script>
 
 <header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="https://anwarjamis.com/" accesskey="h" title="Anwar Jamis (Alt + H)">Anwar Jamis</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://anwarjamis.com/categor%C3%ADas/" title="categorías">
-                    <span class="active">categorías</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://anwarjamis.com/tags/" title="tags">
-                    <span>tags</span>
+                <a href="https://anwarjamis.com/categories/" title="categorías">
+                    <span>categorías</span>
                 </a>
             </li>
             <li>
                 <a href="https://anwarjamis.com/about/" title="sobre mí">
                     <span>sobre mí</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://anwarjamis.com/contact/" title="contacto">
+                    <span>contacto</span>
                 </a>
             </li>
         </ul>
@@ -102,17 +76,20 @@
         <a href="https://anwarjamis.com/categor%C3%ADas/finanzas/">Finanzas <sup><strong><sup>1</sup></strong></sup> </a>
     </li>
     <li>
-        <a href="https://anwarjamis.com/categor%C3%ADas/thoughts/">thoughts <sup><strong><sup>1</sup></strong></sup> </a>
+        <a href="https://anwarjamis.com/categor%C3%ADas/opini%C3%B3n/">Opinión <sup><strong><sup>2</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="https://anwarjamis.com/categor%C3%ADas/random/">Random <sup><strong><sup>1</sup></strong></sup> </a>
     </li>
 </ul>
     </main>
     
 <footer class="footer">
-    <span>&copy; 2022 <a href="https://anwarjamis.com/">Anwar Jamis</a></span>
+    <span>&copy; 2022 <a href="https://anwarjamis.com/"></a></span>
     <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        Hecho con 🤍 por
+        <a href="https://www.anwarjamis.com/about/" rel="noopener noreferrer" target="_blank">Anwar Jamis</a> | 
+        <a href="https://www.anwarjamis.com/contact/" rel="noopener" target="_blank">Contacto</a>
     </span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
@@ -161,18 +138,6 @@
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>

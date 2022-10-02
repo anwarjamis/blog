@@ -6,7 +6,25 @@
     <description>Recent content on Anwar Jamis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 00:54:03 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 20:44:28 -0300</lastBuildDate><atom:link href="https://anwarjamis.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💭 El valor de las ideas</title>
+      <link>https://anwarjamis.com/posts/ideas/</link>
+      <pubDate>Tue, 27 Sep 2022 20:44:28 -0300</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/ideas/</guid>
+      <description>Muchas veces he escuchado que no hay que contar las ideas para que no te las copien, pero&amp;hellip; ¿Qué tan real es que te roben las ideas?</description>
+    </item>
+    
+    <item>
+      <title>🎁 Aguinaldo auspiciado por Tiki</title>
+      <link>https://anwarjamis.com/posts/tiki/</link>
+      <pubDate>Mon, 19 Sep 2022 17:15:56 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/tiki/</guid>
+      <description>Qué es Tiki y una breve historia de cómo me gané 100.000 pesos en una canasta diversificada de criptomonedas como BTC, ETH, BNB, ADA y otras</description>
+    </item>
+    
     <item>
       <title>🍎 Gracias Apple (AAPL)</title>
       <link>https://anwarjamis.com/posts/dividends/</link>
@@ -33,6 +51,37 @@
       <guid>https://anwarjamis.com/about/</guid>
       <description>Sobre mí ¡Hola!✌🏼 Soy Anwar Jamis.
 Tengo 25 años y soy de Chile 🇨🇱. La mayoría de gente no puede pronunciar bien mi nombre a la primera porque es muy poco común en Chile (es un nombre árabe 👳🏾‍♂️ y se escribe distinto a como se pronuncia —Anuar—). Estudié Ingeniería Civil Mecánica en la UAI, pero después de un año trabajando como Ingeniero de Procesos en una constructora, decidí aprender a programar en el bootcamp de desarrollo web de Le Wagon.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/contact/</guid>
+      <description>Contacto Si quieres saber más de este blog, darme feedback de algo que te gustaría que agregara o proponer nuevas ideas para escribir, feliz de que me escribas en instagram, linkedin o mail. Aquí te dejo los links 👇🏼.
+📱 @anwarjamis
+💼 Anwar Jamis
+💌 anwarjamis@gmail.com
+Mientras no cree un recordatorio por mail, me puedes seguir en instagram para saber qué escribo cada semana. Muchas gracias por estar aquí! 💞</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/subscription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/subscription/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/thanks/</guid>
+      <description>¡Gracias por suscribirte! 🤍 Volver al blog</description>
     </item>
     
   </channel>

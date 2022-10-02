@@ -2,28 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://anwarjamis.com/posts/ideas/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/categor%C3%ADas/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/tags/ideas/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/categor%C3%ADas/opini%C3%B3n/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/posts/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/tags/startups/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/tags/</loc>
+    <lastmod>2022-09-27T20:44:28-03:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/posts/tiki/</loc>
+    <lastmod>2022-09-19T17:15:56-04:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/tags/cripto/</loc>
+    <lastmod>2022-09-19T17:15:56-04:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/categor%C3%ADas/random/</loc>
+    <lastmod>2022-09-19T17:15:56-04:00</lastmod>
+  </url><url>
+    <loc>https://anwarjamis.com/tags/tiki/</loc>
+    <lastmod>2022-09-19T17:15:56-04:00</lastmod>
+  </url><url>
     <loc>https://anwarjamis.com/posts/dividends/</loc>
     <lastmod>2022-09-13T00:54:03-04:00</lastmod>
   </url><url>
-    <loc>https://anwarjamis.com/</loc>
-    <lastmod>2022-09-13T00:54:03-04:00</lastmod>
-  </url><url>
-    <loc>https://anwarjamis.com/categor%C3%ADas/</loc>
-    <lastmod>2022-09-13T00:54:03-04:00</lastmod>
-  </url><url>
-    <loc>https://anwarjamis.com/tags/dividendos/</loc>
+    <loc>https://anwarjamis.com/tags/dividends/</loc>
     <lastmod>2022-09-13T00:54:03-04:00</lastmod>
   </url><url>
     <loc>https://anwarjamis.com/categor%C3%ADas/finanzas/</loc>
     <lastmod>2022-09-13T00:54:03-04:00</lastmod>
   </url><url>
-    <loc>https://anwarjamis.com/posts/</loc>
-    <lastmod>2022-09-13T00:54:03-04:00</lastmod>
-  </url><url>
     <loc>https://anwarjamis.com/tags/stocks/</loc>
-    <lastmod>2022-09-13T00:54:03-04:00</lastmod>
-  </url><url>
-    <loc>https://anwarjamis.com/tags/</loc>
     <lastmod>2022-09-13T00:54:03-04:00</lastmod>
   </url><url>
     <loc>https://anwarjamis.com/tags/ikea/</loc>
@@ -32,12 +56,15 @@
     <loc>https://anwarjamis.com/tags/retail/</loc>
     <lastmod>2022-09-02T17:15:56-04:00</lastmod>
   </url><url>
-    <loc>https://anwarjamis.com/categor%C3%ADas/thoughts/</loc>
-    <lastmod>2022-09-02T17:15:56-04:00</lastmod>
-  </url><url>
     <loc>https://anwarjamis.com/posts/ikea/</loc>
     <lastmod>2022-09-02T17:15:56-04:00</lastmod>
   </url><url>
     <loc>https://anwarjamis.com/about/</loc>
+  </url><url>
+    <loc>https://anwarjamis.com/contact/</loc>
+  </url><url>
+    <loc>https://anwarjamis.com/subscription/</loc>
+  </url><url>
+    <loc>https://anwarjamis.com/thanks/</loc>
   </url>
 </urlset>
