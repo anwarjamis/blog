@@ -11,4 +11,7 @@ Si quieres saber más de este blog, darme feedback de algo que te gustaría que 
 
 💌 anwarjamis@gmail.com
 
-Mientras no cree un recordatorio por mail, me puedes seguir en instagram para saber qué escribo cada semana. Muchas gracias por estar aquí! 💞
+---
+Puedes suscribirte a este blog en [este enlace](https://www.anwarjamis.com/subscription/).
+
+A pesar de que estés suscrito no aviso por ahí cada vez que subo algo, así que si te quieres enterar semana a semana de qué he subido, por mientras me puedes seguir en instagram. ¡Muchas gracias por estar aquí! 💞
