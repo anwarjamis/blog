@@ -1,6 +1,6 @@
 ---
 title: "📚 Cómo ganar todas las discusiones"
-date: 2022-10-11T00:54:03-04:00
+date: 2022-10-12T00:54:03-04:00
 summary: "Principales aprendizajes de uno de mis libros favoritos, sobre cómo ganar discusiones el 100% de las veces."
 categorías: "Libros"
 tags: ["discusión", "libros"]
