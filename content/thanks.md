@@ -3,6 +3,6 @@ ShowReadingTime: false
 ---
 ## ¡Gracias por suscribirte! 🤍
 
-![thanks gif](/giphy.gif)
+![thanks gif](/thanks.gif)
 
 [Volver al blog](https://www.anwarjamis.com/)
