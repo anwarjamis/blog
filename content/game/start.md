@@ -3,7 +3,7 @@ ShowReadingTime: false
 ---
 # ¿Listo para el *juego*? 😈
 
-![game gif](/game.gif)
+![game gif](/game/game.gif)
 
 ---
 Sentí que el blog estaba un poco fome, así que decidí crear un juego que consiste en ir respondiendo unas preguntas y avanzando hasta ganar.
