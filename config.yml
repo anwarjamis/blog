@@ -37,6 +37,10 @@ menu:
       name: contacto
       url: /contact/
       weight: 50
+#    - identifier: game
+#      name: juego
+#      url: /game/start
+#      weight: 40
 
 taxonomies:
     tag: "tags"

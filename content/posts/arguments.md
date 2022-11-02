@@ -14,7 +14,7 @@ En general, creo que a la mayoría de las personas nos gusta ganar las discusion
 
 Cuando dos o más personas discuten es porque creen estar en lo cierto. De hecho, si no fuera este el caso, no habría discusión.
 
-El problema es que, la mayoría de veces, al igual que yo, las personas no están tan dispuestas a 'aceptar' la derrota y decir, tienes razón. Esta es la principal razón de por qué las discusiones, habitualmente, no terminan tan bien. Cada persona expone sus argumentos y los va cambiando como sea necesario para 'ganar' la discusión, muchas veces sacando temas personales a la luz, que muy poco tienen que ver con la discusión original.
+El problema es que, la mayoría de las veces, al igual que yo, las personas no están tan dispuestas a 'aceptar' la derrota y decir, tienes razón. Esta es la principal razón de por qué las discusiones, habitualmente, no terminan tan bien. Cada persona expone sus argumentos y los va cambiando como sea necesario para 'ganar' la discusión, muchas veces sacando temas personales a la luz, que muy poco tienen que ver con la discusión original.
 
 Por otro lado, al momento de terminar una discusión hay solo 2 caminos posibles.
 
