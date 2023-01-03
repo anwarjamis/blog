@@ -26,7 +26,7 @@ Y yo sólo pensé... La startup se llama tiki, es una página diciochera y la fr
 
 Cómo el ganador era el primero que la encontraba, me apuré en sacarle la foto y mandárselas por instagram, pero no recibí respuesta hasta el día siguiente, dónde solo me escribieron "Grande Anwar!", esta fue mi cara 🙁.
 
-No me dijeron que había ganado, no habían publicado a un ganador en IG, así que pensé que no había ganado, hasta que el miércoles me volvieron a escribir diciéndome que tenía que hacer para cobrar el premio, esta fue mi cara dos días después de haber encontrado la página 😎.
+No me dijeron que había ganado, no habían publicado a un ganador en IG, así que pensé que no había ganado, hasta que el miércoles me volvieron a escribir diciéndome qué tenía que hacer para cobrar el premio, esta fue mi cara dos días después de haber encontrado la página 😎.
 
 Seguí los pasos y un par de horas más tarde, ya tenía invertidas mis 100 lucas en una canasta de más de 8 criptomonedas. Muy bacán. Nuevamente, Viva Chile! 🇨🇱
 
