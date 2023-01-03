@@ -20,7 +20,7 @@ Por otro lado, al momento de terminar una discusión hay solo 2 caminos posibles
 
 1. **Uno cree que ganó**: si crees que ganaste la discusión, estás en un grave problema. Sentir que ganaste la discusión, significa también que la otra persona siente que perdió y como dije antes, a nadie le gusta perder las discusiones, aunque digan que no les interesa. Entonces ¿Ganaste realmente? o ¿Sólo te ganaste un 👍🏽 personal que no hizo más que hacer que la otra persona se enojara?
 
-2. **Ninguno cree que ganó**: Si la discusión quedó inconclusa, lo más probable es que ambas partes hayan quedado un poco resentidas o enojadas por esto, lo que genera malestar en ambas parsonas, lo cuál claramente tampoco es bueno. Si tampoco convenciste a la persona de tu punto de vista ¿Para qué gastar tanta energía discutiendo?
+2. **Ninguno cree que ganó**: Si la discusión quedó inconclusa, lo más probable es que ambas partes hayan quedado un poco resentidas o enojadas por esto, lo que genera malestar en ambas personas, lo cuál claramente tampoco es bueno. Si tampoco convenciste a la persona de tu punto de vista ¿Para qué gastar tanta energía discutiendo?
 
 Con esto quiero demostrar de que discutir en verdad no tiene mucho sentido, ya que es difícil conseguir que la otra persona cambie de opinión genuinamente y si es que crees que lo hiciste, lo más probable es que la otra persona no esté tan contenta como tú, por lo que perdiste de todas formas.
 
