@@ -40,7 +40,7 @@ No hay razones para que sea al inicio de cada año. De hecho, se podría hacer p
 
 Aún no hacemos la actividad de este año con la Fran, pero según ella el cuadernito ya está listo. Y yo, como lqmm 🤍, conseguí que se anime a compartirlo con ustedes.
 
-En los próximos días le voy a mandar el cuadernito de evaluación anual a todos los que estén suscritos. Así que si no estás suscrito y quieres el cuadernito para evaluar tu año pasado y fijar metas para este 2023, aún estás a tiempo de suscribirte y tenerlo. Puedes suscribirte haciendo [click aquí](https://www.anwarjamis.com/subscription/)
+En los próximos días les voy a mandar el cuadernito de evaluación anual a todos los que estén suscritos. Así que si no estás suscrito y quieres el cuadernito para evaluar tu año pasado y fijar metas para este 2023, aún estás a tiempo de suscribirte y tenerlo. Puedes suscribirte haciendo [click aquí](https://www.anwarjamis.com/subscription/)
 
 ---
 Me gusta harto cuando a partir de los posts que subo, me escriben en IG y nos quedamos hablando un rato, así que si te gustó este post, muy feliz de leer tus comentarios en Instagram. Si quieres que hable de algún tema en especial, obvio no dudes en escribirme (puede que lo termines escribiendo tú y que lo publique en el blog 🤍)
