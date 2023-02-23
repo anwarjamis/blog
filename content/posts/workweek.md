@@ -1,7 +1,7 @@
 ---
 title: "⏱️ No se trata de cuánto ganas"
-date: 2023-02-21T00:54:03-04:00
-summary: ""
+date: 2023-02-23T00:54:03-04:00
+summary: "Por qué renuncié a mi primer trabajo y una recomendación de un libro que te incentiva a trabajar menos y disfrutar mucho más."
 categorías: "Libros"
 tags: ["4-hour workweek", "libros"]
 author: "Anwar Jamis"
