@@ -11,7 +11,7 @@ Tengo 25 años y soy de Chile 🇨🇱. La mayoría de gente no puede pronunciar
 
 ⚽️ Soy fanático del fútbol, las finanzas personales y las startups.
 
-📚 Leo 2 libros al mes.
+📚 Leo 2 [libros](/categor%C3%ADas/libros) al mes.
 
 ✈️ Últimamente me he convertido en un fan de viajar.
 
@@ -21,8 +21,10 @@ Tengo 25 años y soy de Chile 🇨🇱. La mayoría de gente no puede pronunciar
 
 Creé este blog porque siento que he aprendido cosas muy entretenidas y me gusta mucho compartir lo que sé. He hecho muchas clases de matemáticas y física, así que creo que tengo el don para explicar cosas un poco complicadas y que se entiendan.
 
+Si quieres saber más razones de por qué tengo un blog, lee [este post](/posts/blog)
+
 ---
-Puedes suscribirte a este blog en [este enlace](https://www.anwarjamis.com/subscription/).
+Puedes suscribirte a este blog en [este enlace](/subscription).
 
 Si quieres que hablemos o tienes algún comentario del blog en general puedes contactarme.
 
