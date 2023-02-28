@@ -23,9 +23,10 @@ Creé este blog porque siento que he aprendido cosas muy entretenidas y me gusta
 
 Si quieres saber más razones de por qué tengo un blog, lee [este post](/posts/blog)
 
----
-Puedes suscribirte a este blog en [este enlace](/subscription).
+<iframe width="540" height="520" src="https://53ec45e4.sibforms.com/serve/MUIEAC_mvValEGQxNiaenPeUHVGhk-PKYT90dbDZpW9LA2ayBg_gaGqOrBv9eNJCUxPvSfNVbBv5UQ-ZeSqvkU1-i6ebFXkzKuxc-h2VP5-6p9L8KKLhmbZV6isqLRlOLFMvhIjYCF4TePv01EZMmvsyCYicSoZqwE-MY9bY6ZDL-RAnLURWPfjTIpiL4WuCVYbWU52-oz1Kz3YU" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
+
+---
 Si quieres que hablemos o tienes algún comentario del blog en general puedes contactarme.
 
 💌 anwarjamis@gmail.com
