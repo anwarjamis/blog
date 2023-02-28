@@ -3,7 +3,6 @@ title: "📚 Cómo ganar todas las discusiones"
 date: 2022-10-12T00:54:03-04:00
 summary: "Principales aprendizajes de uno de mis libros favoritos, sobre cómo ganar discusiones el 100% de las veces."
 categorías: "Libros"
-tags: ["discusión", "libros"]
 author: "Anwar Jamis"
 ---
 En general, soy muy bueno para discutir. Como a muchos, me gusta harto tener la razón y aún cuando no la tengo, me esfuerzo harto por 'ser abogado del diablo' y seguir discutiendo hasta que el punto de vista de la otra persona me haya convencido 100% (básicamente quedarme sin argumentos para seguir discutiendo). Siempre le busco la quinta pata al gato en cada discusión hasta que llegamos a un punto de acuerdo. Sin embargo, llegar a un punto de común acuerdo pasa MUY pocas veces.

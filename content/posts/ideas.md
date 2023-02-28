@@ -3,7 +3,6 @@ title: "💭 El valor de las ideas"
 date: 2022-09-27T20:44:28-03:00
 summary: "Muchas veces he escuchado que no hay que contar las ideas para que no te las copien, pero... ¿Qué tan real es que te roben las ideas?"
 categorías: "Opinión"
-tags: ["startups", "ideas"]
 author: "Anwar Jamis"
 ---
 Como fanático de las startups siempre estoy buscando nuevas ideas de negocio y pitcheándole a mi polola y amigos. Sí, soy un *Wantrepreneur* por definición. Lo bueno de esto es que he conversado muchas ideas con muchas personas y me he dado cuenta que siempre hay alguien que me dice que no la comente mucho porque puede que me roben la idea, pero...

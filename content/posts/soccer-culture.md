@@ -3,7 +3,6 @@ title: "⚽️ La cultura del fútbol"
 date: 2022-10-29T00:04:28-03:00
 summary: "Lo bien que lo pase estas últimas semanas donde tuve la suerte de estar en la definición del campeonato argentino y en un partido de tercera división."
 categorías: "Fútbol"
-tags: ["cultura", "fútbol"]
 author: "Anwar Jamis"
 ---
 Hace un par de meses con un amigo de la U, decidimos ir a ver un partido de fútbol a Argentina. Compramos pasajes, buscamos alojamiento y entradas a un partido de Boca o de River. Nos mandábamos videos de la hinchada de Boca todos los días para aumentar la tensión del viaje. Cada semana seguíamos los resultados del fútbol argentino para ver que tan probable era conseguir una entrada a alguno de los dos estadios.

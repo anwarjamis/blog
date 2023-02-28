@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fútbol on Anwar Jamis</title>
+    <link>https://anwarjamis.com/categor%C3%ADas/f%C3%BAtbol/</link>
+    <description>Recent content in Fútbol on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 00:04:28 -0300</lastBuildDate><atom:link href="https://anwarjamis.com/categor%C3%ADas/f%C3%BAtbol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚽️ La cultura del fútbol</title>
+      <link>https://anwarjamis.com/posts/soccer-culture/</link>
+      <pubDate>Sat, 29 Oct 2022 00:04:28 -0300</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/soccer-culture/</guid>
+      <description>Lo bien que lo pase estas últimas semanas donde tuve la suerte de estar en la definición del campeonato argentino y en un partido de tercera división.</description>
+    </item>
+    
+  </channel>
+</rss>

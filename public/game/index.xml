@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Games on Anwar Jamis</title>
+    <link>https://anwarjamis.com/game/</link>
+    <description>Recent content in Games on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anwarjamis.com/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/game/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/game/first/</guid>
+      <description>Holi </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anwarjamis.com/game/start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anwarjamis.com/game/start/</guid>
+      <description>¿Listo para el juego? 😈 Sentí que el blog estaba un poco fome, así que decidí crear un juego que consiste en ir respondiendo unas preguntas y avanzando hasta ganar.
+Como todo juego decente, hay un premio si ganas. Puedes jugarlo las veces quieras, así que asumo que todas las persona que me conozcan, que tengan un poco de suerte o sean suficientemente perseverantes van a ganar en pocos minutos.</description>
+    </item>
+    
+  </channel>
+</rss>
