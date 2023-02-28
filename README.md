@@ -1,17 +1,17 @@
 # [blog](https://www.anwarjamis.com)
 
-Este blog fue creado para compartir cosas que he ido aprendiendo, reflexiones random que tengo a veces y resúmenes de libros entretenidos que leo. Probablemente los temas de los que más hablé serán finanzas, tecnología y fútbol. Fue creado usando [Hugo](https://gohugo.io) y el deploy continuo lo hago usando [Netlify](https://www.netlify.com).
+This blog was created to share things I've been learning, random reflections I have sometimes, and summaries of entertaining books I read. The topics I will probably talk about the most are finance, technology, and soccer. It was created using [Hugo](https://gohugo.io) and continuous deployment is done using [Netlify](https://www.netlify.com).
 
-Además de compartir cosas que considero entretenidas, la idea de este blog es probar nuevas tecnologías y mantenerme programando constantemente. Abajo te dejo las instrucciones de cómo crear un blog como este en simples pasos.
+In addition to sharing things I find entertaining, the idea behind this blog is to try out new technologies and keep myself constantly programming. Below are instructions on how to create a blog like this in simple steps.
 
 ---
-*No todas las funcionalidades del blog están contenidas en los tutoriales anteriores, he tenido que hacer unos cambios para personalizar un poco el template*.
+*Not all features of the blog are contained in the above tutorials, I had to make some changes to customize the template.*.
 
 
-## ¿Cómo crear un blog usando hugo?
+## How to create a blog using Hugo?
 
-Crear un blog en usando hugo es súper fácil (si sabes usar la terminal de tu computador). Sólo debes seguir estas instrucciones presionando [aquí](https://gohugo.io/getting-started/quick-start/).
+Creating a blog using Hugo is super easy (if you know how to use your computer's terminal). You just need to follow these instructions by clicking [here](https://gohugo.io/getting-started/quick-start/).
 
-## ¿Cómo hacer el deploy usando Netlify?
+## How to deploy using Netlify?
 
-Para ver más detalle, visita la documentación del deploy [aquí](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/).
+For more details, visit the deployment documentation [here](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/).
