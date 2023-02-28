@@ -3,7 +3,6 @@ title: "⏱️ No se trata de cuánto ganas"
 date: 2023-02-23T00:54:03-04:00
 summary: "Por qué renuncié a mi primer trabajo y una recomendación de un libro que te incentiva a trabajar menos y disfrutar mucho más."
 categorías: "Libros"
-tags: ["4-hour workweek", "libros"]
 author: "Anwar Jamis"
 ---
 Después de dejar mi trabajo anterior, seguí hablando con mis compañeros y mi ex jefe. Un día nos juntamos en un bar y hablamos de por qué había renunciado. Mi ex jefe me dijo que ya se imaginaba que me iba a ir, pero que la cagué al renunciar justo un mes antes de que nos dieran el bono anual en abril (me fui en marzo). Yo solo me reí porque en realidad no me urgía para nada la plata en ese momento y mi bienestar general valía mucho más que 1,1 veces mi sueldo.

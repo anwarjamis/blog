@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>grit on Anwar Jamis</title>
+    <link>https://anwarjamis.com/tags/grit/</link>
+    <description>Recent content in grit on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2023 00:54:03 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/tags/grit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>✍🏼 Por qué tener un blog</title>
+      <link>https://anwarjamis.com/posts/blog/</link>
+      <pubDate>Fri, 27 Jan 2023 00:54:03 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/blog/</guid>
+      <description>Razones de por qué escribo en este blog, qué me ha gustado y qué espero para este año.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,6 @@ title: "📈 Racional vs Fintual"
 date: 2023-01-02T00:54:03-04:00
 summary: "Fintual stocks y una comparación entre mis dos aplicaciones de inversión favoritas."
 categorías: "Finanzas"
-tags: ["stocks", "inversiones"]
 author: "Anwar Jamis"
 ---
 Invertir en acciones es una gran forma de hacer crecer tus lucas, pero empezar puede ser difícil si no entiendes mucho o no sabes cómo hacerlo. Afortunadamente, hay varias aplicaciones que lo hacen muchísimo más fácil y seguro. Racional era mi app favorita para comprar acciones en el mercado gringo (te acuerdas del post de [dividendos de Apple](https://www.anwarjamis.com/posts/dividends/)?) hasta que hace ya casi 2 meses, Fintual, una de mis apps favoritas para invertir (en general, no solo stocks), lanzó la opción de invertir en acciones y le puso las cosas un poco más complicadas a Racional.

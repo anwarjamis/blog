@@ -3,7 +3,6 @@ title: "🎓 Por qué soy fan del CAE"
 date: 2022-11-09T00:04:28-03:00
 summary: "Puede que sea muy impopular, pero en este post explico por qué estoy tan feliz por estar endeudado con el CAE."
 categorías: "Opinión"
-tags: ["cae", "universidad"]
 author: "Anwar Jamis"
 ---
 En Chile las carreras universitarias, por lo general, son buenas, pero bastante largas y caras. De hecho, las carreras de pregrado son de las más caras de latinoamérica. Por eso, la realidad de muchas familias es, si una persona entra a la universidad es sinónimo de orgullo, pero también de endeudarse por muchos años.

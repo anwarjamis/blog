@@ -3,7 +3,6 @@ title: "📱 El efecto \"auténtico\" de BeReal"
 date: 2022-10-05T00:54:03-04:00
 summary: "Mi opinión sobre la nueva red social que te molesta una vez al día para subir una foto donde sea que estés."
 categorías: "Opinión"
-tags: ["BeReal", "social media"]
 author: "Anwar Jamis"
 ---
 Hace un poco más de un mes estoy usando BeReal, una nueva red social que usan los lolos para mostrar su día a día y, tal como lo dice su nombre, mostrarse de forma más —real— a diferencia de lo que se muestra en las otras redes sociales que es todo bonito y feliz.

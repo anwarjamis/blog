@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libros on Anwar Jamis</title>
+    <link>https://anwarjamis.com/categor%C3%ADas/libros/</link>
+    <description>Recent content in Libros on Anwar Jamis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2023 00:54:03 -0400</lastBuildDate><atom:link href="https://anwarjamis.com/categor%C3%ADas/libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⏱️ No se trata de cuánto ganas</title>
+      <link>https://anwarjamis.com/posts/workweek/</link>
+      <pubDate>Thu, 23 Feb 2023 00:54:03 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/workweek/</guid>
+      <description>Por qué renuncié a mi primer trabajo y una recomendación de un libro que te incentiva a trabajar menos y disfrutar mucho más.</description>
+    </item>
+    
+    <item>
+      <title>📚 Cómo ganar todas las discusiones</title>
+      <link>https://anwarjamis.com/posts/arguments/</link>
+      <pubDate>Wed, 12 Oct 2022 00:54:03 -0400</pubDate>
+      
+      <guid>https://anwarjamis.com/posts/arguments/</guid>
+      <description>Principales aprendizajes de uno de mis libros favoritos, sobre cómo ganar discusiones el 100% de las veces.</description>
+    </item>
+    
+  </channel>
+</rss>

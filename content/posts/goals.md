@@ -3,7 +3,6 @@ title: "🎯 Metas 2023"
 date: 2023-01-21T00:54:03-04:00
 summary: "La importancia de poner metas, cómo me ha funcionado a mí y un regalito especial para empezar el año."
 categorías: "Metas"
-tags: ["goals", "2023"]
 author: "Anwar Jamis"
 ---
 Cuando empieza un nuevo año, es típico que te pregunten cómo estuvo el año anterior, qué esperas del nuevo año y muchas preguntas que en generar uno suele responder solo con lo que cree o piensa en ese momento. Al menos ese era yo cuando me preguntaban ese tipo de cosas. Simplemente respondía según lo que me acordaba que había sido el año (pensando en las cosas más importantes que me habían pasado) y mis metas para el siguiente eran metas a corto plazo que tenía en ese momento.

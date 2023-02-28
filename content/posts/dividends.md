@@ -3,7 +3,6 @@ title: "🍎 Gracias Apple (AAPL)"
 date: 2022-09-13T00:54:03-04:00
 summary: "Hace un mes recibí los primeros dividendos de mis acciones en Racional. En este post te cuento qué son los dividendos y cuánta plata me dieron por tener acciones de la empresa de Steve Jobs."
 categorías: "Finanzas"
-tags: ["stocks", "dividends"]
 author: "Anwar Jamis"
 ---
 Hace dos años me fuí de Work & Travel a trabajar a California. Conocí mucha gente increíble, lugares hermosos y logré ahorrar harta plata. Cuándo volví a Chile, dejé algunos dólares en una cuenta gringa. Hace unos meses, obviamente seguía teniendo la misma cantidad de dólares en mi cuenta y pensé en toda la plata que pude haber ganado si la hubiese invertido (de hecho hice el cálculo: si hubiese invertido la plata que tenía hace dos años, pude haber tenido 60% más hoy), así que decidí traerme esos dólares y que me generaran un poco de rentabilidad para que la próxima vez que quiera ir a Estados Unidos 🇺🇸 tener un poquito más plata de la que dejé.

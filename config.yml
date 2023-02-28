@@ -3,7 +3,6 @@ languageCode: en-us
 title: Anwar Jamis
 paginate: 3
 theme: PaperMod
-# disqusShortname: ajamis
 
 params:
     ShowReadingTime: true

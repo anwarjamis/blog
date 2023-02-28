@@ -3,7 +3,6 @@ title: "✍🏼 Por qué tener un blog"
 date: 2023-01-27T00:54:03-04:00
 summary: "Razones de por qué escribo en este blog, qué me ha gustado y qué espero para este año."
 categorías: "Blog"
-tags: ["metas", "grit"]
 author: "Anwar Jamis"
 ---
 El pasado 2 de Septiembre empecé a publicar en este blog. Ya van casi 5 meses y a pesar de no haber escrito tantos posts, sigo escribiendo periódicamente 💪🏼.
