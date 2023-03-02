@@ -1,6 +1,6 @@
 ---
 title: "🔄 Los mejores cambios no son inmediatos"
-date: 2023-03-01T00:54:03-04:00
+date: 2023-03-02T00:54:03-04:00
 summary: "Cuando nos ponemos metas, muchas veces la abandonamos 'porque no estamos viendo resultados'. El problema es que el avance no siempre es medible."
 categorías: "Metas"
 author: "Anwar Jamis"
