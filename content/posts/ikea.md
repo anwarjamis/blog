@@ -17,7 +17,7 @@ Estaba muy feliz hasta que me tocó pagar y seleccionar el envío. La entrega te
 
 El 29 de Agosto me acordé de que mi compra de Ikea debería estar por llegar y 2 días después llegó solo uno de las dos cosas que compré, le pregunté al amigo repartidor por lo otro y obvio no sabía del otro envío. En la página decía que podían llegar en envíos separados así que no hay problema con eso. Volví a rastrear mi pedido y me salió esto:
 
-![ikea](/posts/ikea.png)
+![ikea](/posts/images/ikea.png)
 
 Me habían aplazado la fecha de entrega un día más y hasta ahora, el 02 de Septiembre, aún no me ha llegado el soporte del monitor. En la foto dice que puede llegar hoy, pero ya es tarde y no tengo fe de que vaya a llegar hoy. Probablemente no lleguen hasta el lunes 05 si es que tengo suerte. Malísimo.
 

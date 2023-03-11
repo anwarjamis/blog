@@ -19,7 +19,7 @@ Cuando leí de esta startup, me pareció bastante interesante y los empecé a se
 
 El lunes, Tiki subió esta foto.
 
-![tiki](/posts/tiki.png)
+![tiki](/posts/images/tiki.png)
 
 Y yo sólo pensé... La startup se llama tiki, es una página diciochera y la frase más usada en el 18 es tiki tiki ti. Obvio la página tenía que ser algo como tikitikiti.com (gracias Tiki por el hint de que era .com, sino ahí habría estado más difícil). Pensé que el dominio tikitikiti.com podría tenerlo otra persona, así que primero probé tikitiki.com y no había nada, así que antes de seguir probando tenía que descartar primero la opción tikitikiti.com. Sin embargo, lejos de descartarla, me encontré con la misma página del post de instagram con una maravillosa cueca de fondo.
 

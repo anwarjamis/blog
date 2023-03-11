@@ -25,7 +25,7 @@ No mucho, casi nada de hecho. Pero era obvio, porque los dividendos dependen de 
 
 Aquí esta parte del mail de Racional 👇🏼. Ya sabes cuánto gané.
 
-![aapl dividends](/posts/dividends.png)
+![aapl dividends](/posts/images/dividends.png)
 
 Un par de semanas después me llegó un nuevo mail de Racional en dónde me decían que había ganado un poquito más de plata (US$0,20 😂) por mis acciones en Starbucks (SBUX) ☕️📈. ¿No lo encuentran entretenido?
 
