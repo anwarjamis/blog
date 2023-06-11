@@ -7,7 +7,7 @@ author: "Anwar Jamis"
 ---
 Como fanático de las startups siempre estoy buscando nuevas ideas de negocio y pitcheándole a mi polola y amigos. Sí, soy un *Wantrepreneur* por definición. Lo bueno de esto es que he conversado muchas ideas con muchas personas y me he dado cuenta que siempre hay alguien que me dice que no la comente mucho porque puede que me roben la idea, pero...
 
-## ¿Que tan probable es que te *roben* tu idea?
+## ¿Qué tan probable es que te *roben* tu idea?
 
 Yo creo que muy baja. De hecho, voy a compartir una de las ideas que más me gusta para usarla de ejemplo y así también va a servir de experimento para ver si algún conocido roba esta idea en el corto-mediano plazo. Por favor, intenta copiarla.
 
